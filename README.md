@@ -3,3 +3,4 @@
 #### File Flowchart, diagram ada pada DWHSPK.drawio.pdf
 #### File SPK ada pada folder UAS DWH
 #### Penjelasan tulis Tangan ada pada IRPAN SPK.pdf
+#### tampilan ui Penjelasan Tambahan Dan Tampilan UI.pdf
