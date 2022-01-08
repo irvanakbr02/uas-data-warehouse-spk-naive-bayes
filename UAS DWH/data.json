@@ -1,0 +1,844 @@
+[
+	{
+		"umur" : 14,
+		"tinggi" : "ideal",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "kt",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "st",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "st",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "st",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "ideal",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "ideal",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "ideal",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "ideal",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "ideal",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "kt",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "st",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "st",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "st",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "ideal",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "ideal",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "kt",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "st",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "st",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "st",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "kt",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "kt",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "ideal",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "kt",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "st",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "st",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "st",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "ideal",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "ideal",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "kt",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "st",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "st",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "st",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "ideal",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "sehat",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "ideal",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "ideal",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "ideal",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "ideal",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "kt",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "kt",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "kt",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "kt",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "kt",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "kt",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "kt",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "kt",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "kt",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "kt",
+		"nilaiun" : "rendah",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "kt",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "kt",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "kt",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "kt",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "kt",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+
+	{
+		"umur" : 14,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat1",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "st",
+		"nilaiun" : "sangatbaik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	}
+	,{
+		"umur" : 14,
+		"tinggi" : "st",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 15,
+		"tinggi" : "st",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 16,
+		"tinggi" : "st",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 17,
+		"tinggi" : "st",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 18,
+		"tinggi" : "st",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 14,
+		"tinggi" : "st",
+		"nilaiun" : "baik",
+		"kesehatanmata" : "tidak_sehat2",
+		"kesehatanjasmani" : "tidak_sehat",
+		"status" : 1
+	}
+]
